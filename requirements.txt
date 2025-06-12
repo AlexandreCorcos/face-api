@@ -2,4 +2,3 @@ fastapi
 uvicorn
 face_recognition
 pillow
-requests
